@@ -1,2 +1,1 @@
-#支持私库
-opengauss
+nginx
