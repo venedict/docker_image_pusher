@@ -1,1 +1,2 @@
---platform=linux/arm64 bitnami/kafka
+# --platform=linux/arm64 bitnami/kafka
+ollama/ollama
